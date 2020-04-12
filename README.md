@@ -21,6 +21,8 @@ https://github.com/meenuraji/S11FINAL/blob/master/CYCLIC%20TRIANGLE.png
 
 Lr Range Test graph.
 
+https://github.com/meenuraji/S11FINAL/blob/master/Lr%20Range.png
+
 
 Train and Test accuracy plotted against Lerning Rate.
 
