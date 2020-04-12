@@ -1,7 +1,7 @@
 # S11FINAL
 
 
-Tried to make the assignment completly modular as possible
+Tried to make the assignment completely modular as possible
 
 Implemented OneCyclePolicy, CyclicLR, LrRangeTest
 
@@ -17,15 +17,20 @@ Graphs
 
 CYCLIC TRIANGLE plot.
 
+https://github.com/meenuraji/S11FINAL/blob/master/CYCLIC%20TRIANGLE.png
+
 Lr Range Test graph.
 
 
-Train and Test accuracy ploted againest Lerning Rate.
+Train and Test accuracy plotted against Lerning Rate.
 
 
 My Team Members
+
 Dr PV Rajesh Kumar drpvrajeshkumar@gmail.com
+
 Dr Mounika duddukurimounika@gmail.com
+
 Vivek krovvidivivek@gmail.com
 
 
