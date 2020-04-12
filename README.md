@@ -26,6 +26,9 @@ https://github.com/meenuraji/S11FINAL/blob/master/Lr%20Range.png
 
 Train and Test accuracy plotted against Lerning Rate.
 
+https://github.com/meenuraji/S11FINAL/blob/master/Lr%20Accuracy.png
+
+
 
 My Team Members
 
